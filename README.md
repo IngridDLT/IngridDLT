@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IngridDLT
-- 👀 I’m learning code.
-- 🌱 I’m currently in bootcamp of Full Stack at Merit School.
-- 💞️ I’m looking to collaborate on a new project.
+- 👀 I’m in the journey of learning code.
+- 🌱 I’m currently in a bootcamp of Full Stack at Merit School.
+- 💞️ Looking to collaborate on a new project.
 - 📫 How to reach me ingriddelatorre@gmail.com
 
 <!---
